@@ -9,9 +9,6 @@ nav_active: research
 
 {% include nav.html %}
 
-# Research
-Brief overview of the main directions…
-
 ## Dual-Ionic Gating & Quantum Capacitance
 Your blurb…
 
