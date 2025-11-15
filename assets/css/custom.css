@@ -1,0 +1,12 @@
+/* hide Dinky's banner/header */
+.site-header,
+.page-header,
+header[role="banner"] { display: none; }
+
+/* tidy layout */
+.wrapper { max-width: 780px; }
+.page-content { padding: 1rem 0 2rem; }
+
+/* subtle hr + nicer links */
+hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
+a { text-underline-offset: 2px; }
