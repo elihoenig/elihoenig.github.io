@@ -1,23 +1,36 @@
 ---
 ---
-@import "{{ site.theme }}";  /* load Dinky base styles first */
+@import "{{ site.theme }}";
 
-/* kill the theme header/banner */
+/* REMOVE ARCHITECT HEADER */
 .site-header,
+.site-header *,
 .page-header,
-header[role="banner"] {
-  display: none;
+.page-header *,
+header,
+header * {
+  display: none !important;
+  height: 0 !important;
+  visibility: hidden !important;
+  overflow: hidden !important;
+  margin: 0 !important;
+  padding: 0 !important;
 }
 
-/* tighten up spacing + set a comfortable content width */
-.page-content { padding: 1rem 0 2rem; }
-.wrapper { max-width: 780px; }
+/* OPTIONAL: remove Architect footer too */
+.site-footer,
+.site-footer * {
+  display: none !important;
+  visibility: hidden !important;
+}
 
-/* optional: quieter link style + nice <hr> */
+/* CLEAN CONTENT WIDTH */
+.wrapper {
+  max-width: 780px;
+  margin: 0 auto;
+  padding: 1rem;
+}
+
+/* QUIET HR + LINKS */
+hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.5rem 0; }
 a { text-underline-offset: 2px; }
-hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
-
-/* your “tabs” (if you’re using _includes/nav.html) */
-.site-tabs { display:flex; gap:.5rem; flex-wrap:wrap; margin:0 0 1rem 0; }
-.site-tabs a { padding:.35rem .6rem; border:1px solid #e5e7eb; border-radius:6px; text-decoration:none; }
-.site-tabs a.active { font-weight:600; box-shadow: inset 0 -2px 0 rgba(0,0,0,.08); }
