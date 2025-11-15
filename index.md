@@ -3,6 +3,7 @@ layout: default
 title: Home
 nav_active: home
 ---
+
 # Eli Hoenig
 
 {% include nav.html %}
