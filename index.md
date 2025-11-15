@@ -3,7 +3,14 @@ layout: default
 title: Home
 nav_active: home
 ---
-<link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
+
+<style>
+/* Kill Dinky header + GitHub link bar */
+header[role="banner"], .site-header, .page-header, .header, .site-nav, .site-title {
+  display: none !important; height: 0 !important; visibility: hidden !important; overflow: hidden !important;
+}
+</style>
+
 
 # Eli Hoenig
 
