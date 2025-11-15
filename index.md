@@ -3,13 +3,6 @@ layout: default
 title: Home
 nav_active: home
 ---
-{% include nav.html %}
-
----
-layout: default
-title: Home
-nav_active: home
----
 
 {% include nav.html %}
 
