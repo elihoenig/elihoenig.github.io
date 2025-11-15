@@ -52,25 +52,27 @@ header * {
   border-bottom: 2px solid #000;   /* distinct active underline */
 }
 
-/* --- Home page intro layout --- */
-.intro-box {
+/* --- Home intro layout with headshot to the left --- */
+.home-intro {
   display: flex;
-  align-items: center;
-  gap: 1.5rem;
+  align-items: flex-start;
+  gap: 1.25rem;
+  margin-top: 1.25rem;
   margin-bottom: 1.5rem;
 }
 
 .headshot {
-  width: 110px;        /* adjust size here */
+  width: 120px;          /* adjust size */
   height: auto;
-  border-radius: 8px;  /* rounded corners; change to 50% for circle */
-  box-shadow: 0 0 4px rgba(0,0,0,0.15);
+  border-radius: 6px;    /* or 50% for circle */
+  object-fit: cover;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
-.name-title {
-  margin: 0;
-  font-size: 1.8rem;
-  font-weight: 600;
+.intro-text {
+  flex: 1;
+  font-size: 1rem;
+  line-height: 1.6;
 }
 
 
