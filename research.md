@@ -9,10 +9,10 @@ nav_active: research
 
 {% include nav.html %}
 
-## Dual-Ionic Gating & Quantum Capacitance
-Your blurb…
+## Electrochemistry with dual ionically-gated 2D materials 
+This is a currently active area of research. Based on [recent advances](https://arxiv.org/abs/2510.19505) in the Lozada-Hidalgo group, we can ask new questions of electrochemical systems. How does band structure (tunable with large electric fields) affect charge transfer from electrode to reactant? How does carrier density and electric field affect ion transport within the interlayer gallery of 2D materials? We aim to answer these questions with an eye towards new energy storage systems and ion-based computing applications.
 
-## Ion Intercalation in 2D Materials
+## Ion and Molecular Transport Macroscopic 2D Membranes
 Your blurb…
 
 ## Suspended Membrane Devices
