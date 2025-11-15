@@ -79,4 +79,36 @@ header * {
   line-height: 1.6;
 }
 
+/* --- Research block: text left, image right --- */
+.research-block {
+  display: flex;
+  gap: 1.25rem;
+  align-items: flex-start;
+  margin-bottom: 1.75rem;
+}
+
+.research-text {
+  flex: 1;
+}
+
+.research-img {
+  width: 180px;          /* adjust size */
+  height: auto;
+  border-radius: 6px;
+  object-fit: cover;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+}
+
+/* Stack on narrow screens (mobile-friendly) */
+@media (max-width: 700px) {
+  .research-block {
+    flex-direction: column-reverse;
+    align-items: flex-start;
+  }
+  .research-img {
+    width: 60%;
+    max-width: 220px;
+  }
+}
+
 
