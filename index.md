@@ -6,11 +6,12 @@ nav_active: home
 
 # Eli Hoenig
 
+
+{% include nav.html %}
+
 <div class="intro-box">
   <img src="{{ '/assets/img/headshot.jpg' | relative_url }}" class="headshot">
 </div>
-
-{% include nav.html %}
 
 I am a materials scientist and experimental physicist working on nanoscale electrochemistry, 2D materials, and ionic gating.
 
