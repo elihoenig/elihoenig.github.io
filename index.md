@@ -12,9 +12,8 @@ nav_active: home
 <div class="home-intro">
   <img src="{{ '/assets/img/headshot.jpg' | relative_url }}" class="headshot">
   <div class="intro-text">
-    I am a materials scientist and experimental physicist working on nanoscale
-    electrochemistry, 2D materials, and ionic gating. My research focuses on ion
-    transport, charge transfer, and dual-gated van der Waals devices.
+    I am currently a postdoctoral researcher with Marcelo Lozada-Hidalgo in the Condensed Matter Physics Group at the University of Manchester. 
+    I did my graduate work with Chong Liu at the University of Chicago. My research is on ion transport and charge transfer in nanoscale systems. I use two-dimensional materials, like graphene and various metal dichalcogenides, to make precise testbeds for electrochemical and transport studies.
   </div>
 </div>
 
