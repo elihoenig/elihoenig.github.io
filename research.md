@@ -25,7 +25,7 @@ Your blurb…
       By exfoliating 2D crystals in the liquid phase then allowing the sheets to self-assemble, I made a layered, macroscopic membrane with highly tunable microscopic properties <a href="https://example.com" target="_blank">Nano Letters, 2020 </a>. Due to their weak van-der-waals interactions, the sheets can slide, rotate and bend without causing the membrane to fracture (see image). We controlled the structure of this membrane on the angstrom-scale using chemical functionalization and characterized it's water filtration performance with liter-scale volumes. Molecular dynamics simulations, x-ray, electron-microscope (see images) and optical techniques were critical in understanding its structure-property relationships. 
     </p>
   </div>
-  <img src="/assets/img/restacked.png" class="research-img" width=600>
+  <img src="/assets/img/restacked.png" class="research-img" width=500>
 </div>
 
 (Return to the [Summary](/).)
