@@ -17,14 +17,6 @@ header[role="banner"],
     margin: 0 !important;
 }
 
-/* Hide the footer that says "Hosted on GitHub Pages • Theme Dinky" */
-.site-footer {
-    display: none !important;
-    visibility: hidden !important;
-    height: 0 !important;
-    overflow: hidden !important;
-}
-
 /* Tidy content layout */
 .wrapper {
     max-width: 780px !important;
