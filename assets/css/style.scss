@@ -2,6 +2,13 @@
 ---
 @import "{{ site.theme }}";
 
+h1, h2, h3, h4, h5, h6 {
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto,
+               "Helvetica Neue", Arial, sans-serif !important;
+  font-weight: 600 !important;
+}
+
+
 /* REMOVE ARCHITECT HEADER */
 .site-header,
 .site-header *,
@@ -16,21 +23,3 @@ header * {
   margin: 0 !important;
   padding: 0 !important;
 }
-
-/* OPTIONAL: remove Architect footer too */
-.site-footer,
-.site-footer * {
-  display: none !important;
-  visibility: hidden !important;
-}
-
-/* CLEAN CONTENT WIDTH */
-.wrapper {
-  max-width: 780px;
-  margin: 0 auto;
-  padding: 1rem;
-}
-
-/* QUIET HR + LINKS */
-hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.5rem 0; }
-a { text-underline-offset: 2px; }
