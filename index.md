@@ -9,8 +9,13 @@ nav_active: home
 
 {% include nav.html %}
 
-<div class="intro-box">
+<div class="home-intro">
   <img src="{{ '/assets/img/headshot.jpg' | relative_url }}" class="headshot">
+  <div class="intro-text">
+    I am a materials scientist and experimental physicist working on nanoscale
+    electrochemistry, 2D materials, and ionic gating. My research focuses on ion
+    transport, charge transfer, and dual-gated van der Waals devices.
+  </div>
 </div>
 
 I am a materials scientist and experimental physicist working on nanoscale electrochemistry, 2D materials, and ionic gating.
