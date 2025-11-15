@@ -14,13 +14,10 @@ I am a materials scientist and experimental physicist working on nanoscale elect
 - Ion intercalation in 2D materials (MoS₂, graphene, hBN)
 - Suspended membrane devices on SiN apertures
 
-See more on the [Research](/research) page, or grab my **[CV (PDF)](/assets/EliHoenig_CV.pdf)**.
-
-
-
 ---
 
 ## Contact
 
-Email: elihoenig_at_gmail.com  
+Personal email: elihoenig(at)gmail(dot)com  
+Work email: eli(dot)hoenig(at)manchester(dot)ac(dot)uk
 LinkedIn: your-linkedin-url
