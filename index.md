@@ -4,9 +4,12 @@ title: Home
 nav_active: home
 ---
 
-{% include nav.html %}
+
 
 # Eli Hoenig
+
+{% include nav.html %}
+
 I am a materials scientist and experimental physicist working on nanoscale electrochemistry, 2D materials, and ionic gating.
 
 ## Current focus
