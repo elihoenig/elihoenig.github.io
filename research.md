@@ -22,7 +22,7 @@ This is a currently active area of research. Based on [recent advances](https://
       By electrochemically sculpting sub-nanometer pores directly into few-layer MoS₂, we created atomically thin membranes that act as precise ionic sieves <a href="https://www.nature.com/articles/s41467-024-52109-8" target="_blank">Nature Comms, 2024</a>. These pores are small enough to discriminate between hydrated ions based on size and coordination, yet large enough to sustain measurable transport. Because the MoS₂ lattice is robust, the pores remain structurally well-defined, allowing us to probe ion dehydration and confinement at the atomic limit. Using a combination of ionic conductance measurements, TEM imaging, and molecular simulations, we mapped how pore chemistry and geometry shape transport, enabling a quantitative link between atomic-scale defects and macroscopic ion selectivity.
     </p>
   </div>
-  <img src="/assets/img/restacked.png" class="research-img">
+  <img src="/assets/img/pores.png" class="research-img">
 </div>
 
 
