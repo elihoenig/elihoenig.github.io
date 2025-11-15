@@ -1,7 +1,7 @@
-/* hide Dinky's banner/header */
+/* hide Dinky header/banner */
 .site-header,
 .page-header,
-header[role="banner"] { display: none; }
+header[role="banner"] { display: none !important; }
 
 /* tidy layout */
 .wrapper { max-width: 780px; }
@@ -10,3 +10,4 @@ header[role="banner"] { display: none; }
 /* subtle hr + nicer links */
 hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
 a { text-underline-offset: 2px; }
+
