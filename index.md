@@ -4,14 +4,6 @@ title: Home
 nav_active: home
 ---
 
-<style>
-/* Kill Dinky header + GitHub link bar */
-header[role="banner"], .site-header, .page-header, .header, .site-nav, .site-title {
-  display: none !important; height: 0 !important; visibility: hidden !important; overflow: hidden !important;
-}
-</style>
-
-
 # Eli Hoenig
 
 {% include nav.html %}
