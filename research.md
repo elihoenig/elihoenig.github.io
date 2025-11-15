@@ -21,7 +21,8 @@ Your blurb…
 <div class="research-block">
   <div class="research-text">
     <p>
-      This is a currently active area of research. Based on [recent advances](https://arxiv.org/abs/2510.19505) in the Lozada-Hidalgo group, we can ask new questions of electrochemical systems. How does band structure (tunable with large electric fields) affect charge transfer from 2D electrode to reactant? How does carrier density and electric field affect ion transport within the interlayer gallery of 2D materials? We aim to answer these questions with an eye towards new energy storage systems and ion-based computing applications. 
+      Practical, scalable membranes for water filtration must be robust and flexible. 
+      By exfoliating 2D crystals in the liquid phase then allowing the sheets to self-assemble, I made a layered, macroscopic membrane with highly tunable microscopic properties [Nano Letters, 2020](https://pubs.acs.org/doi/10.1021/acs.nanolett.0c02114). Due to their inherent disorder and weak van-der-waals interactions, the sheets can slide, rotate and bend without fracturing (see image). We controlled the structure of this membrane on the angstrom-scale using chemical functionalization and characterized it's water filtration performance with liter-scale volumes. Molecular dynamics simulations, x-ray, electron-microscope (see images) and optical techniques were critical in understanding its structure-property relationships.
     </p>
   </div>
   <img src="/assets/img/restacked.png" class="research-img" width="240">
