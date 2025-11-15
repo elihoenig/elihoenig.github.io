@@ -18,7 +18,7 @@ nav_active: home
 </div>
 
 ## Research focus
-I study how the tunable electronic and structural properties of nanomaterials shape their interactions with liquids, ions, and redox-active molecules. Much of my work centers on two-dimensional materials—graphene, transition-metal dichalcogenides, and hexagonal boron nitride—which span the full range of electronic behavior from metals to semiconductors to insulators. By stacking, functionalizing, and electrostatically gating these materials, I design nanoscale devices that serve as both scientific probes and engineering platforms. My approach is intentionally pluralistic: I follow interesting physical phenomena when they emerge, engineer devices for specific functionalities, and design experiments to resolve specific scientific questions.
+I study how the tunable electronic and structural properties of nanomaterials shape their interactions with liquids, ions, and redox-active molecules. Much of my work centers on two-dimensional materials—graphene, transition-metal dichalcogenides, and hexagonal boron nitride—which span the full range of electronic behavior from metals to semiconductors to insulators. By stacking, functionalizing, and electrostatically gating these materials, I design nanoscale devices that serve as both scientific probes and engineering platforms. My approach is intentionally pluralistic: I follow interesting physical phenomena when they emerge, engineer devices for specific functionalities, and design experiments to resolve well-defined scientific questions.
 
 ## Contact
 
