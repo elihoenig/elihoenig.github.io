@@ -5,7 +5,6 @@ nav_active: home
 ---
 
 
-
 # Eli Hoenig
 
 {% include nav.html %}
