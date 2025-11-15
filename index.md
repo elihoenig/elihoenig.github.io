@@ -1,27 +1,28 @@
 ---
 layout: default
 title: Home
+nav_active: home
+---
+{% include nav.html %}
+
+---
+layout: default
+title: Home
+nav_active: home
 ---
 
+{% include nav.html %}
+
 # Eli Hoenig
-Materials scientist & experimental physicist  
-I build nanoscale devices to explore ion transport and charge transfer in 2D materials.
+I am a materials scientist and experimental physicist working on nanoscale electrochemistry, 2D materials, and ionic gating.
 
-## Research {#projects}
-A brief overview of my current research directions:
-
-- Dual-ionic gating and quantum capacitance
+## Current focus
+- Dual-ionic gating & quantum capacitance
 - Ion intercalation in 2D materials (MoS₂, graphene, hBN)
 - Suspended membrane devices on SiN apertures
-- Nanoscale electrochemistry with redox-active electrolytes
-- Cleanroom nanofabrication and advanced characterization
 
-👉 **More details on the [Research page](research.md).**
+See more on the [Research](/research) page, or grab my **[CV (PDF)](/assets/Eli_Hoenig_CV.pdf)**.
 
-## CV
-You can download my CV here:
-
-👉 **[Download CV (PDF)](assets/Eli_Hoenig_CV.pdf)**
 
 
 ---
