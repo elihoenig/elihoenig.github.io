@@ -4,7 +4,9 @@ title: Research
 permalink: /research
 nav_active: research
 ---
+
 #Eli Hoenig
+
 {% include nav.html %}
 
 # Research
