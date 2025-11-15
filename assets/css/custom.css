@@ -1,22 +1,40 @@
-/* Hide Dinky header/banner for sure */
+/* Hide the entire Dinky banner/header */
 header[role="banner"],
 .site-header,
 .page-header,
 .header,
-.site-nav {
-  display: none !important;
-  height: 0 !important;
-  visibility: hidden !important;
-  overflow: hidden !important;
+.site-nav,
+.github-link,
+.wrapper .site-title,
+.wrapper .site-nav,
+.site-title,
+.site-title a {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+    padding: 0 !important;
+    margin: 0 !important;
 }
 
-/* (Optional) hide the default footer credit too */
-.site-footer { display: none !important; }
+/* Hide the footer that says "Hosted on GitHub Pages • Theme Dinky" */
+.site-footer {
+    display: none !important;
+    visibility: hidden !important;
+    height: 0 !important;
+    overflow: hidden !important;
+}
 
-/* Tidy layout */
-.wrapper { max-width: 780px; margin: 0 auto; }
-.page-content { padding: 1rem 0 2rem; }
+/* Tidy content layout */
+.wrapper {
+    max-width: 780px !important;
+    margin: 0 auto !important;
+}
 
-/* Minimal cosmetics */
-hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
+/* Minimal hr + link aesthetics */
+hr { 
+    border: 0; 
+    border-top: 1px solid #e5e7eb; 
+    margin: 1.25rem 0; 
+}
 a { text-underline-offset: 2px; }
