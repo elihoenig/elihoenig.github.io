@@ -21,6 +21,6 @@ I am a materials scientist and experimental physicist working on nanoscale elect
 
 ## Contact
 
-Personal email: elihoenig(at)gmail(dot)com  
-Work email: eli(dot)hoenig(at)manchester(dot)ac(dot)uk
-LinkedIn: your-linkedin-url
+Personal email: elihoenig(at)gmail.com  
+Work email: eli(dot)hoenig(at)manchester.ac.uk
+LinkedIn: www.linkedin.com/in/eli-hoenig-1a8724149
