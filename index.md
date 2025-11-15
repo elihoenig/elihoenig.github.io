@@ -8,7 +8,6 @@ nav_active: home
 
 <div class="intro-box">
   <img src="{{ '/assets/img/headshot.jpg' | relative_url }}" class="headshot">
-  <h1 class="name-title">Eli Hoenig</h1>
 </div>
 
 {% include nav.html %}
