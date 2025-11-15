@@ -1,3 +1,24 @@
 title: Eli Hoenig
 description: Nanoscale electrochemistry & 2D materials
-theme:jekyll-theme-minimal
+theme: jekyll-theme-minimal
+
+# Optional: your site URL (useful for SEO & links)
+url: "https://elihoenig.github.io"
+
+# Optional: navigation links in the top-right corner
+# (Minimal theme supports these)
+show_downloads: false
+navigation:
+  - title: "Projects"
+    url: "#projects"
+  - title: "Publications"
+    url: "#publications"
+  - title: "CV"
+    url: "assets/Eli_Hoenig_CV.pdf"
+  - title: "Contact"
+    url: "#contact"
+
+# Optional: social links (Minimal theme supports these icons)
+social_links:
+  github: elihoenig
+  linkedin: your-linkedin-username
