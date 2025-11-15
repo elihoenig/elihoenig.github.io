@@ -14,7 +14,7 @@ I am a materials scientist and experimental physicist working on nanoscale elect
 - Ion intercalation in 2D materials (MoS₂, graphene, hBN)
 - Suspended membrane devices on SiN apertures
 
-See more on the [Research](/research) page, or grab my **[CV (PDF)](/assets/Eli_Hoenig_CV.pdf)**.
+See more on the [Research](/research) page, or grab my **[CV (PDF)](/assets/EliHoenig_CV.pdf)**.
 
 
 
