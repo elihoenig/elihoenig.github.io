@@ -1,13 +1,22 @@
-/* hide Dinky header/banner */
+/* Hide Dinky header/banner for sure */
+header[role="banner"],
 .site-header,
 .page-header,
-header[role="banner"] { display: none !important; }
+.header,
+.site-nav {
+  display: none !important;
+  height: 0 !important;
+  visibility: hidden !important;
+  overflow: hidden !important;
+}
 
-/* tidy layout */
-.wrapper { max-width: 780px; }
+/* (Optional) hide the default footer credit too */
+.site-footer { display: none !important; }
+
+/* Tidy layout */
+.wrapper { max-width: 780px; margin: 0 auto; }
 .page-content { padding: 1rem 0 2rem; }
 
-/* subtle hr + nicer links */
+/* Minimal cosmetics */
 hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
 a { text-underline-offset: 2px; }
-
