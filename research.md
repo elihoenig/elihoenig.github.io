@@ -26,7 +26,7 @@ Your blurb…
     </p>
   </div>
 
-  <img src="/assets/img/restacked.jpg" class="research-img">
+  <img src="/assets/img/restacked.png" class="research-img">
 </div>
 
 (Return to the [Summary](/).)
