@@ -9,6 +9,9 @@ h1, h2, h3, h4, h5, h6 {
   color: #000 !important;
 }
 
+body, p, li, span, div {
+  color: #444 !important;
+}
 
 /* REMOVE ARCHITECT HEADER */
 .site-header,
@@ -39,7 +42,7 @@ header * {
   padding: 0.3rem 0.6rem;       /* internal padding */
   border-radius: 6px;           /* soft shape */
   text-decoration: none;
-  color: #0366d6;               /* subtle blue (GitHub style) */
+  color: #0055cc;               /* subtle blue (GitHub style) */
   font-weight: 500;
 }
 
