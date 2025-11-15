@@ -3,7 +3,6 @@ layout: default
 title: Home
 nav_active: home
 ---
-
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 # Eli Hoenig
