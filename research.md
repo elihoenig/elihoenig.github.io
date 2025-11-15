@@ -4,7 +4,6 @@ title: Research
 permalink: /research
 nav_active: research
 ---
-
 <link rel="stylesheet" href="{{ '/assets/css/custom.css' | relative_url }}">
 
 #Eli Hoenig
