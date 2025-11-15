@@ -1,16 +1,5 @@
 ---
 ---
-@import "{{ site.theme }}";
-
-/* remove Cayman's big banner and extra chrome */
-.page-header { background: none; padding: 1.25rem 0 0; border: 0; }
-.project-name, .project-tagline { display: none; }
-
-/* content width + quiet typography */
-.main-content { max-width: 780px; }
-.main-content h1 { font-size: 1.6rem; margin-top: 0.6rem; }
-.main-content h2 { font-si---
----
 @import "{{ site.theme }}";  /* load Dinky base styles first */
 
 /* kill the theme header/banner */
@@ -32,13 +21,3 @@ hr { border: 0; border-top: 1px solid #e5e7eb; margin: 1.25rem 0; }
 .site-tabs { display:flex; gap:.5rem; flex-wrap:wrap; margin:0 0 1rem 0; }
 .site-tabs a { padding:.35rem .6rem; border:1px solid #e5e7eb; border-radius:6px; text-decoration:none; }
 .site-tabs a.active { font-weight:600; box-shadow: inset 0 -2px 0 rgba(0,0,0,.08); }
-ze: 1.15rem; margin-top: 1.4rem; }
-.main-content p, .main-content li { font-size: 0.98rem; line-height: 1.65; }
-
-/* subtle tabs */
-.site-tabs { display:flex; gap:.5rem; flex-wrap:wrap; margin:0 0 1rem 0; }
-.site-tabs a { padding:.35rem .6rem; border:1px solid #e5e7eb; border-radius:6px; text-decoration:none; }
-.site-tabs a.active { font-weight:600; box-shadow: inset 0 -2px 0 rgba(0,0,0,.08); }
-
-/* keep links quiet */
-a { text-underline-offset: 2px; }
