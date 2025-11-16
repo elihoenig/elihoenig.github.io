@@ -28,14 +28,14 @@ This is a currently active area of research. Based on [recent advances](https://
 
 ## Macrosopic filtration membranes from 2D sheets
 
-<div class="research-block">
-  <div class="research-text">
+<div class="research-block_2">
+  <div class="research-text_2">
     <p>
       Practical membranes for water filtration must be robust and flexible. 
 By exfoliating 2D crystals in the liquid phase then allowing the sheets to self-assemble, I made a layered, macroscopic membrane with highly tunable microscopic properties <a href="https://pubs.acs.org/doi/10.1021/acs.nanolett.0c02114" target="_blank">Nano Letters, 2020 </a>. Due to their weak van-der-waals interactions, the sheets can slide, rotate and bend without causing the membrane to fracture (see image). We controlled the structure of this membrane on the angstrom-scale using chemical functionalization and characterized it's water filtration performance with liter-scale volumes. Molecular dynamics simulations, x-ray, electron-microscope (see images) and optical techniques were critical in understanding its structure-property relationships. This work led to multiple collaborations, in which we investigated lanthanide tranpsort <a href="https://www.science.org/doi/full/10.1126/sciadv.adh1330" target="_blank">Science Advances, 2024 </a> and ion-ion interactions <a href="https://www.nature.com/articles/s41467-025-61307-x" target="_blank">Nature Comms, 2025 </a> and <a href="https://www.pnas.org/doi/abs/10.1073/pnas.2313616121" target="_blank">PNAS, 2024 </a> in these membranes. 
     </p>
   </div>
-  <img src="/assets/img/restacked.png" class="research-img">
+  <img src="/assets/img/restacked.png" class="research-img_2">
 </div>
 
 
