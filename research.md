@@ -37,4 +37,10 @@ This is a currently active area of research. Based on [recent advances](https://
   <img src="/assets/img/restacked.png" class="research-img">
 </div>
 
+## Early Work in Atomic and Optical Physics (NIST & Williams College)
+
+Before moving into 2D materials and nanoscale electrochemistry, I worked in atomic physics and optical metrology, developing experimental systems for precision spectroscopy and frequency-comb measurements. At Williams, I built a free-space optical apparatus for faraday rotation measurements of weak electronic transitions in atomic Pb (<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.100.052506" target="_blank">Phys. Rev. A, 2019</a>). I carried out the initial measurement runs and wrote routines used for nonlinear fitting and lineshape analysis.
+
+At NIST, I constructed a fiber-based optical amplifier for frequency-comb experiments and performed the associated measurements (<a href="https://opg.optica.org/oe/fulltext.cfm?uri=oe-27-8-11869" target="_blank">Optics Express, 2019</a>). I also developed drone-based data-acquisition software for environmental sensing fieldwork integrated with dual-comb spectrometers (<a href="https://opg.optica.org/abstract.cfm?uri=ES-2020-EM3C.2" target="_blank">OSA Sensing (2020)</a>). 
+
 (Return to the [Summary](/).)
