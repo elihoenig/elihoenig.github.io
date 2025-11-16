@@ -9,9 +9,20 @@ h1, h2, h3, h4, h5, h6 {
   color: #111 !important;
 }
 
+.wrapper {
+  margin-top: 2rem;   /* adjust to taste */
+}
+
 body, p, li, span, div {
   color: #333 !important;
 }
+
+.main-content p {
+  text-align: justify;
+  text-justify: inter-word;
+}
+
+
 
 /* REMOVE ARCHITECT HEADER */
 .site-header,
