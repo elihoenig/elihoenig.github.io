@@ -111,6 +111,23 @@ header * {
   box-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
+.research-block_2 {
+  margin-bottom: 1.5rem;
+}
+
+.research-text_2 {
+  margin-bottom: 0.75rem;   /* spacing above image */
+}
+
+.research-img_2 {
+  display: block;
+  width: 150px;             /* adjust as needed */
+  margin: 0 auto;           /* center it (optional) */
+  border-radius: 6px;
+  box-shadow: 0 1px 4px rgba(0,0,0,0.12);
+}
+
+
 /* Stack on narrow screens (mobile-friendly) */
 @media (max-width: 700px) {
   .research-block {
