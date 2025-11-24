@@ -104,32 +104,32 @@ header * {
 }
 
 .research-img {
-  width: 150px;          /* adjust size */
+  width: 120px;          /* adjust size */
   height: auto;
-  border-radius: 6px;
+  border-radius: 3px;
   object-fit: cover;
   box-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
 .research-block_2 {
-  margin-bottom: 1.5rem;
+  margin-bottom: 0.75rem;
 }
 
 .research-text_2 {
-  margin-bottom: 0.75rem;   /* spacing above image */
+  margin-bottom: 0.5rem;   /* spacing above image */
 }
 
 .research-img_2 {
   display: block;
-  width: 150px;             /* adjust as needed */
+  width: 120px;             /* adjust as needed */
   margin: 0 auto;           /* center it (optional) */
-  border-radius: 6px;
+  border-radius: 3px;
   box-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
 /* Keep the figure the same width as the image */
 .research-figure {
-  width: 150px;               /* match image width */
+  width: 120px;               /* match image width */
   margin: 0;
   text-align: center;
 }
