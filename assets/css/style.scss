@@ -127,6 +127,30 @@ header * {
   box-shadow: 0 1px 4px rgba(0,0,0,0.12);
 }
 
+/* Keep the figure the same width as the image */
+.research-figure {
+  width: 150px;               /* match image width */
+  margin: 0;
+  text-align: center;
+}
+
+/* Make the image fill the figure */
+.research-figure .research-img {
+  width: 100%;                /* auto-scales to figure’s width */
+  height: auto;
+  display: block;
+}
+
+/* Caption wraps exactly to the figure width */
+.research-figure figcaption {
+  font-size: 0.8rem;
+  color: #666;
+  margin-top: 0.35rem;
+  line-height: 1.3;
+  word-wrap: break-word;
+}
+
+
 
 /* Stack on narrow screens (mobile-friendly) */
 @media (max-width: 700px) {
