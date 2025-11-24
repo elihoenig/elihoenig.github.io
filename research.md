@@ -39,7 +39,7 @@ By exfoliating 2D crystals in the liquid phase then allowing the sheets to self-
   </div>
   <figure class="research-figure">
     <img src="/assets/img/restacked.png" class="research-img">
-    <figcaption class="research-caption">Electron and optical images of the same membrane at progressively larger scales (nanometer to centimeter)</figcaption>
+    <figcaption class="research-caption">Electron and optical images of a TMD membrane at nanometer to centimeter scales</figcaption>
   </figure>
   
 </div>
