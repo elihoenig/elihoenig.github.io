@@ -12,7 +12,7 @@ nav_active: research
 See an up-to-date list of publications on my [Google Scholar page](https://scholar.google.com/citations?user=nAYxNwsAAAAJ&hl=en&oi=ao)
 
 ## Electrochemistry with ionically-gated 2D materials 
-Based on [recent advances](https://arxiv.org/abs/2510.19505) in the Lozada-Hidalgo group, we can ask new questions of electrochemical systems. How does band structure (tunable with large electric fields) affect charge transfer from 2D electrode to reactant? How does carrier density and electric field affect ion transport within the interlayer gallery of 2D materials? We aim to answer these questions with an eye towards new energy storage systems and ion-based computing applications.
+[Recent advances](https://arxiv.org/abs/2510.19505) in the Lozada-Hidalgo group have enabled controllable, double-sided ionic gating and functionalization of suspended crystals. With these techniques, we can ask new questions of electrochemical systems. How does band structure (tunable with large electric fields) affect charge transfer from 2D electrode to reactant? How does carrier density and electric field affect ion transport within the interlayer gallery of 2D materials? We aim to answer these questions with an eye towards new energy storage systems and ion-based computing applications.
 
 ## Ion selective nanopores
 
