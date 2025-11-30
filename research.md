@@ -12,7 +12,7 @@ nav_active: research
 See an up-to-date list of publications on my [Google Scholar page](https://scholar.google.com/citations?user=nAYxNwsAAAAJ&hl=en&oi=ao)
 
 ## Electrochemistry with ionically-gated 2D materials 
-I have recently developed and refined methods to ionically gate suspended 2D crystals. With these techniques, I have pursued new lines of investigation for electrochemical systems. I am exploring how band structure (tunable with large electric fields) affects charge transfer from 2D electrode to reactant, and how carrier density and electric field affect ion transport within the interlayer gallery of 2D materials. I aim to answer these questions with an eye towards new energy storage systems and ion-based computing applications. This work is currently underway in the Condensed Matter Physics Group and the National Graphene Institute at the University of Manchester.
+I have recently developed and refined methods to ionically gate suspended 2D crystals. With these techniques, I have pursued new lines of investigation for electrochemical systems. I am exploring how band structure (tunable with large electric fields) affects charge transfer from 2D electrode to reactant, and how carrier density and electric field affect ion transport within the interlayer gallery of 2D materials. I aim to answer these questions with an eye towards new energy storage systems and ion-based computing applications. This work is now in its final stages in the Condensed Matter Physics Group and the National Graphene Institute at the University of Manchester.
 
 ## Ion selective nanopores
 
